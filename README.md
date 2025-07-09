@@ -7,3 +7,7 @@
 
 
 [《我有N个比特币，这是我的故事》](https://card.weibo.com/article/m/show/id/2309404150790284538830)      [@子鱼在流浪-新浪微博](https://weibo.com/6354677620/FljhOdHz9)
+
+
+
+1. 根据config-copy.py 创建config.py文件
